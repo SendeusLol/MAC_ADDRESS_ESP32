@@ -4,7 +4,7 @@ Here is a revised GitHub-friendly version of your content, formatted for better 
 
 # Change MAC Address Using ESP-IDF
 
-This repository contains a simple example using ESP-IDF to change the MAC address on an ESP32 device. This can be useful for various Bluetooth applications. 
+This repository contains a simple example using ESP-IDF to change the MAC address and UUIDS service sender on an ESP32 device. This can be useful for various Bluetooth applications. 
 
 ---
 
